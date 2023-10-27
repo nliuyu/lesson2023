@@ -1,4 +1,4 @@
-void hello3()
+void hello2()
 {
 	printf("Hello C");
 }
